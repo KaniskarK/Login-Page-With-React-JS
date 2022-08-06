@@ -1,3 +1,4 @@
+import React from "react";
 import styled from "styled-components";
 export default function Input({ type, placeholder }) {
   return <StyledInput type={type} placeholder={placeholder} />;
